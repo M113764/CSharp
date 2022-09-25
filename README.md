@@ -7,6 +7,7 @@
   - [Loops](#loops)
     - [Break/Continue](#breakcontinue)
   - [Methods](#methods)
+  
     - [Return](#return)
     - [Parameters/Arguments](#parametersarguments)
   - [Classes and OOP](#classes-and-oop)
